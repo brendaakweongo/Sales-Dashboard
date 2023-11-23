@@ -1,9 +1,9 @@
 # Sales-Dashboard
 
-##_Description_
+## _Description_
 A friendly power BI dashboard that visualizes the sales of a shop
 
-##_Topics_
+## _Topics_
 Data Analytics
 Data Visualization
 Microsoft Power BI
