@@ -17,6 +17,8 @@ Data of the shop which includes the orders, [Shop's Orders](https://github.com/b
 
 ## _Dashboard_
 The dashboard below shows the visualization of the data.
+
+
 ![Screenshot 2023-07-28 152259](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/sales.png)
 
 <hr />
