@@ -1,25 +1,25 @@
 # Sales Dashboard 📈
 
-## _Description_
-A friendly power BI dashboard that visualizes the sales of a shop
+### Business Task
+- Analyse the category of items that brought in the most profit
+- Analyse the sub-category of items that brought in the most profit
+- Analyse the trend of the months that fetched in more profit for the shop
+- Analyse the number of orders made per payment mode. This helps in chanelling more attention to the payment mode that brings in more profit to the shop
 
-## _Topics_
-Data Analytics
-Data Visualization
-Microsoft Power BI
+### Data Set
+- [Orders dataset](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/Datasets/Orders.csv).
+- [Order Details dataset](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/Datasets/Details.csv).
 
-## _Details_
-Data of the shop which includes the orders, [Shop's Orders](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/Datasets/Orders.csv),  that have been made as well as the details of the orders,[Shop's Order Details](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/Datasets/Details.csv). The following insights were derived from the data:
-- The category of items that brought in the most profit
-- The sub-category of items that brought in the most profit
-- The trend of the months that fetched in more profit for the shop
-- The number of orders made per payment mode. This helps in chanelling more attention to the payment mode that brings in more profit to the shop
+### Tools
+- Power BI for data visualisation - View [Power BI file](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/Sales%20Dashboard.pbix)
 
-## _Dashboard_
+### _Dashboard_
 The dashboard below shows the visualization of the data.
 
 
 ![Screenshot 2023-07-28 152259](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/sales.png)
+
+<kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/Sales-Dashboard/blob/main/sales.png"></kbd>
 
 <hr />
 <br />
