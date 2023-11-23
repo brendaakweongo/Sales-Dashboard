@@ -1,4 +1,4 @@
-# Sales Dashboard 📊
+# Sales Dashboard 📈
 
 ## _Description_
 A friendly power BI dashboard that visualizes the sales of a shop
