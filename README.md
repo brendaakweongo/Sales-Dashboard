@@ -16,7 +16,7 @@ Data of the shop which includes the orders, [Shop's Orders](https://github.com/b
 - The number of orders made per payment mode. This helps in chanelling more attention to the payment mode that brings in more profit to the shop
 
 ## _Dashboard_
-
+The dashboard below shows the visualization of the data.
 ![Screenshot 2023-07-28 152259](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/sales.png)
 
 <hr />
