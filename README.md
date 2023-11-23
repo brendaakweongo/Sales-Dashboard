@@ -11,7 +11,7 @@
 - [Order Details dataset](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/Datasets/Details.csv).
 
 ### Tools
-- Power BI for data visualisation - View [Power BI file](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/Sales%20Dashboard.pbix)
+- Power BI for data visualisation - View [Report on power BI ](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/Sales%20Dashboard.pbix)
 
 ### _Dashboard_
 The dashboard below shows the visualization of the data.
