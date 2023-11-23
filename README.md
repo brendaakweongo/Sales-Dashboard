@@ -19,7 +19,7 @@ The dashboard below shows the visualization of the data.
 
 ![Screenshot 2023-07-28 152259](https://github.com/brendaakweongo/Sales-Dashboard/blob/main/sales.png)
 
-<kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/Sales-Dashboard/blob/main/sales.png"></kbd>
+
 
 <hr />
 <br />
